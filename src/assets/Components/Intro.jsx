@@ -7,7 +7,7 @@ import item4 from '../../../public/item4.png'
 const Intro = () => {
 
     return (
-        <div className='bg-[#ECEAE3] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 py-5 text-center gap-2 '>
+        <div className='bg-[#ECEAE3] grid grid-cols-1 md:grid-cols-2  xl:grid-cols-4 py-8 text-center gap-y-4 '>
 
                <div>
                      <div className=' flex justify-center '>
